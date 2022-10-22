@@ -3,3 +3,5 @@ Get-ChildItem | Unblock-File
 Import-Module AudioDeviceCmdlets
 
 Set-AudioDevice -PlaybackVolume 10.0
+
+sibal
